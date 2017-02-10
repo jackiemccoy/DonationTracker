@@ -1,0 +1,8 @@
+c:\users\jackiem\documents\visual studio 2013\Projects\DonationTracker\DonationTracker\bin\Debug\DonationTracker.exe.config
+c:\users\jackiem\documents\visual studio 2013\Projects\DonationTracker\DonationTracker\bin\Debug\DonationTracker.exe
+c:\users\jackiem\documents\visual studio 2013\Projects\DonationTracker\DonationTracker\bin\Debug\DonationTracker.pdb
+c:\users\jackiem\documents\visual studio 2013\Projects\DonationTracker\DonationTracker\obj\Debug\DonationTracker.exe
+c:\users\jackiem\documents\visual studio 2013\Projects\DonationTracker\DonationTracker\obj\Debug\DonationTracker.pdb
+C:\Users\WeCanCodeIT\Downloads\DonationTracker2\DonationTracker\DonationTracker\bin\Debug\DonationTracker.exe.config
+C:\Users\WeCanCodeIT\Downloads\DonationTracker2\DonationTracker\DonationTracker\obj\Debug\DonationTracker.exe
+C:\Users\WeCanCodeIT\Downloads\DonationTracker2\DonationTracker\DonationTracker\obj\Debug\DonationTracker.pdb
